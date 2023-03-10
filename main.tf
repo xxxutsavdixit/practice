@@ -1,4 +1,4 @@
-variable "myname" { 
+jbskscvariable "myname" { 
      
     type = string 
 }
