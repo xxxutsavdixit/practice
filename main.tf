@@ -1,9 +1,21 @@
-jbskscvariable "myname" { 
-     
-    type = string 
-}
+<div class="jumbotron text-center">
+  <h1>My First Bootstrap Page</h1>
+  <p>Resize this responsive page to see the effect!</p>
+</div>
 
-    output "equal" {
-    value = var.myname
-  
-}
+<div class="container">
+  <div class="row">
+    <div class="col-sps-4">
+      <h3>Column 22</h3>
+      <p>Lorem ipsum dolor..</p>
+    </div>
+    <div class="col-sm-4">
+      <h3>Column 868</h3>
+      <p>Lorem ipsum dolor..</p>
+    </div>
+    <div class="col-sm-4">
+      <h3>Columny 3</h3>
+      <p>Lorem ipsum dolor..</p>
+    </div>
+  </div>
+</div>
