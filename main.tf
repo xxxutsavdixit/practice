@@ -5,17 +5,17 @@
 
 <div class="container">
   <div class="row">
-    <div class="col-sm-4">
-      <h3>Column 1</h3>
+    <div class="col-sps-4">
+      <h3>Column 22</h3>
       <p>Lorem ipsum dolor..</p>
     </div>
     <div class="col-sm-4">
-      <h3>Column 2</h3>
+      <h3>Column 868</h3>
       <p>Lorem ipsum dolor..</p>
     </div>
     <div class="col-sm-4">
-      <h3>Column 3</h3>
+      <h3>Columny 3</h3>
       <p>Lorem ipsum dolor..</p>
     </div>
   </div>
-</div>
+</div> 
